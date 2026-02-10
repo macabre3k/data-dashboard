@@ -1,0 +1,13 @@
+# Python
+*.pyc __pycache__/ *.log *.tmp *.bak
+# Virtual environment
+venv/ env/
+# Build
+build/ dist/ *.egg-info
+# Files
+*.csv *.sql *.json *.yaml *.yml
+# Logs
+*.log *.tmp
+# IDE
+*.idea
+*.vscode
